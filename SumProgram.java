@@ -1,9 +1,19 @@
+
+import java.util.Scanner;
 public class SumProgram 
 {
-    public static void main(String args[])   
-    {  
-        int n1 = 225, n2 = 115, sum;  
-        sum = n1 + n2;  
-        System.out.println("The sum of numbers is: "+sum);  
+    public static void main(String args[]){  
+        Scanner num = new Scanner (System.in);
+        System.out.print("Enter a random number = ");
+        float a = num.nextInt();
+        System.out.print("Enter a random number = ");
+        float b = num.nextInt();
+
+        float result = a +b ;
+
+        System.out.println("The ans is "+result);
+
+
+        
     } 
 }
