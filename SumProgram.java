@@ -12,6 +12,7 @@ public class SumProgram
         float result = a +b ;
 
         System.out.println("The ans is "+result);
+        System.out.println("Hello world ");
 
 
         

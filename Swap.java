@@ -16,8 +16,5 @@ public class Swap {
         System.out.println("sowp 1 :"+ sowp_1);
         System.out.println("sowp 2 "+sowp_2);
         
-
-
-
     }
 }
