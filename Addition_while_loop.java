@@ -7,10 +7,13 @@ public class Addition_while_loop {
         int i = input.nextInt();
         int sum =0;
 
-        while (i <n){
+        while (i<n){
             i++;
             sum = sum + i ;
+            System.out.println("ANS :"+ sum);
+
         }
-        System.out.println("ANS :"+ sum);
+
+        
     }
 }
