@@ -13,7 +13,7 @@ public class Addition_while_loop {
             System.out.println("ANS :"+ sum);
 
         }
-
+        System.out.println(sum);
         
     }
 }
