@@ -11,7 +11,7 @@ public class two_d_array_sum {
         //2D array declear 
         int[][] a = new int[2][3];
         int[][] b = new int[2][3];
-        int sum = 0 ;
+        int [][] c = new int[2][3];
 
         //user input 'A' Matrix element 
         System.out.println("Ente 'A' Matrix element : ");
@@ -53,10 +53,10 @@ public class two_d_array_sum {
         System.out.println("Adding A matrix and B matrix = A+B ");
         for (int i=0; i>2 ; i++){
             for (int j=0 ;j<3 ;j++){
-                sum = a[i][j]+b[i][j];
-                System.out.println(sum);
+                c[i][j]=b[i][j]+a[i][j];
+                System.out.print(c[i][j]+" ");
             }
-        }System.out.println();
-        System.out.println(sum);
+            System.out.println();
+        }
     }
 }
