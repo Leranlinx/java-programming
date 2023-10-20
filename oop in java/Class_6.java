@@ -1,17 +1,20 @@
-//This code use default Constructor 
-//This code use default Constructor 
-//This code use default Constructor 
-
-public class Class_5 {
+public class Class_6 {
     String name ;
     double id ;
     String defartment;
-    // Stirng email;
+
+    //defoult constructor
+    //defoult constructor
+    //defoult constructor
+    //defoult constructor
+    Class_6 (){
+        System.out.println("No value");
+    }
 
     //use basic prametrized Constructor 
     //use basic prametrized Constructor 
     //use basic prametrized Constructor 
-    Class_5(String name, int id , String def){
+    Class_6(String name, int id , String def){
         name = name;
         id=id ;
         defartment= def;
@@ -36,5 +39,3 @@ public class Class_5 {
         defartment= def;
     }
 }
-
-
