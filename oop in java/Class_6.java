@@ -38,4 +38,9 @@ public class Class_6 {
         id=id ;
         defartment= def;
     }
+
+    public static void main(String[] args) {
+        Class_6 student = new Class_6("MD Nahimul Islam", 666, "Cse");
+        student.get_information();
+    }
 }
