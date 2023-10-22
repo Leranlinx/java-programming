@@ -3,10 +3,11 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
         int count = 0; 
-        int index;
+        int index = 0;
         int[] arr ={1,2,3,4,5,6};
         for (int i=0 ; i<arr.length; i++){
-            System.out.printf("arr[%d] =", i);
+            System.out.print(index++);
+            System.out.print(" ");
             System.out.println("Array element : "+ arr[i]);
         }
 
