@@ -3,8 +3,8 @@ public class test_static {
     int id ;
     static java.lang.String university = "DUET";
 
-    test_static (java.lang.String string, int i){
-        name = string;
+    test_static (String n, int i){
+        name = n;
         id = i ;
     }
 
@@ -15,7 +15,7 @@ public class test_static {
     }
 
     public static void main(String[] args) {
-        test_static student_1 = new test_static("Md Nahimul Islam ", 1839);
-        student_1.Displayout();
+        // test_static student_1 = new test_static("Md Nahimul Islam ", 1839);
+        // student_1.Displayout();
     }
 }
