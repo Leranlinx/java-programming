@@ -23,7 +23,7 @@ public class two_d_array_sum_practice_2 {
                 }
             }
         }
-        System.out.println(max);
+        // System.out.println(max);
         two_d_array_sum_practice_2 abc = new two_d_array_sum_practice_2();
         int ans = abc.maxValue(a);
         System.out.println(ans);
