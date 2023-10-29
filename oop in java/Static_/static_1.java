@@ -6,10 +6,10 @@ public class static_1 {
     static String country = "Bangladesh";  /// Static variable 
 
     // creat constacture 
-    static_1 (String n, String c, int id){
+    static_1 (String n, String c, int i){
         name= n ;
         contact = c; 
-        id = id ;
+        id = i ;
         
     }
     // create method display out 
