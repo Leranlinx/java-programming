@@ -1,4 +1,4 @@
-package StoreStudentDetails;
+package Student_details.StoreStudentDetails;
 
 import java.util.ArrayList;
 import java.util.Collections;

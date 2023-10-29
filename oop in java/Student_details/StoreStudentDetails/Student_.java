@@ -1,4 +1,4 @@
-package StoreStudentDetails;
+package Student_details.StoreStudentDetails;
 public class Student_ {
     private String name ;
     private int id ;

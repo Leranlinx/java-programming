@@ -1,4 +1,4 @@
-package StoreStudentDetails;
+package Student_details.StoreStudentDetails;
 
 public class Main {
     
