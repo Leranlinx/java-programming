@@ -1,4 +1,4 @@
-package LearnJavaProject;
+package interface_java;
 
 public class parrot implements Bird{
 

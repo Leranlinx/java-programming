@@ -1,4 +1,4 @@
-package LearnJavaProject;
+package interface_java;
 interface Bird{
     public void canFly();
     public void canSing();
