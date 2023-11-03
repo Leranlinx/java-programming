@@ -10,7 +10,7 @@ public class Main {
         student_1.name = "Md Nahimul Islam";
         student_1.gender = "Male";
         student_1.age = 19 ;
-        student_1.mobile = 123456789;
+        // student_1.mobile = 123456789;
 
         // System.out.println("Student-1 Name = "+student_1.name );
         // System.out.println("Student-1 age = "+student_1.age );
@@ -23,7 +23,7 @@ public class Main {
         student_2.name = "Md Nahimul Islam rafi";
         student_2.gender = "Male";
         student_2.age = 20 ;
-        student_2.mobile =12345;
+        // student_2.mobile =12345;
 
         // System.out.println("Student-1 Name = "+student_2.name );
         // System.out.println("Student-1 age = "+student_2.age );

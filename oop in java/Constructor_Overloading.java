@@ -16,21 +16,21 @@ public class Constructor_Overloading {
     }
     //Constructor 1
     Constructor_Overloading(String name, int phone, int age){
-        name = name; 
-        phone = phone;
-        age = age; 
+        // name = name; 
+        // phone = phone;
+        // age = age; 
     }
     //Constructor 2
     Constructor_Overloading(String name, int phone){
-        name = name; 
-        phone = phone;
+        // name = name; 
+        // phone = phone;
     }
     //Constructor 3
     Constructor_Overloading(String name, String gender, int phone, int age){
-        name = name; 
-        gender =gender; 
-        phone = phone;
-        age = age; 
+        // name = name; 
+        // gender =gender; 
+        // phone = phone;
+        // age = age; 
     }
     
     //object creat //object creat //object creat //object creat //object creat //object creat //object creat 

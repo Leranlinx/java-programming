@@ -21,7 +21,7 @@ public class test {
     }
 
     public void getContact (String contact){
-        this.name = name ;
+        // this.name = name ;
     }
 
     public String setContact (){

@@ -2,7 +2,7 @@ public class Class_1 {
     String name ;
     String gender;
     int age ;
-    String number ;
+    int number ;
 
     void displayout (){
         System.out.println("Name : "+ name);
@@ -16,7 +16,7 @@ public class Class_1 {
         student_1.name = "Niloy";
         student_1.gender = "Male";
         student_1.age = 20;
-        student_1.number = "0193873922";        
+        // student_1.number = "0193873922";        
         
         // Class_1 student_2 = new Class_1();
         // student_2.name = "rafi";

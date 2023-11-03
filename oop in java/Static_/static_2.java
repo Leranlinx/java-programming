@@ -23,7 +23,7 @@ public class static_2 {
     public static void main(String[] args) {
         static_2 ob =new static_2("Hello world ", "asdfsadf", 234);
         System.out.println(ob);
-        System.out.println("Country name : "+ob.country_name);
+        // System.out.println("Country name : "+ob.country_name);
     }
     
 }

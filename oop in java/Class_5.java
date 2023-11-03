@@ -12,8 +12,8 @@ public class Class_5 {
     //use basic prametrized Constructor 
     //use basic prametrized Constructor 
     Class_5(String name, int id , String def){
-        name = name;
-        id=id ;
+        // name = name;
+        // id=id ;
         defartment= def;
         // email= email;
     }
@@ -31,8 +31,8 @@ public class Class_5 {
     //Basic prametrized method 
     //Basic prametrized method 
     void set_information(String name, int id , String def){
-        name = name;
-        id=id ;
+        // name = name;
+        // id=id ;
         defartment= def;
     }
 }
