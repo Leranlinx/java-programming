@@ -26,11 +26,11 @@ public class Constructor_Overloading {
         // phone = phone;
     }
     //Constructor 3
-    Constructor_Overloading(String name, String gender, int phone, int age){
-        // name = name; 
-        // gender =gender; 
-        // phone = phone;
-        // age = age; 
+    Constructor_Overloading(String n, String g, int p, int a){
+        name = n; 
+        gender =g; 
+        phone = p;
+        age = a; 
     }
     
     //object creat //object creat //object creat //object creat //object creat //object creat //object creat 
