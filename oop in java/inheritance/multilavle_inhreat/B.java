@@ -1,5 +1,6 @@
 package inheritance.multilavle_inhreat;
 
-public class B {
-    
+public class B extends A {
+    String date_of_Birth ; 
+    String father_name ;
 }
