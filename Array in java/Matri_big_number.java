@@ -34,7 +34,7 @@ public class Matri_big_number {
     }
 
     // Array Display sout Method 
-    void Display_array (int [][] M_arr){
+    int Display_array (int [][] M_arr){
         for (int i =0 ; i<3 ; i++){
             for (int j =0 ; j<3 ; j++){
                 int var = M_arr[i][j];
